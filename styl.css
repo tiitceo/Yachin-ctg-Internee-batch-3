@@ -1,0 +1,85 @@
+.header{
+background-color:yellow;
+width:960px;
+height:100px;
+margin: 0px 0px 15px 0px;
+}
+.fullbody{
+background-color:#33CCFF;
+width:960px;
+height:725px;
+margin:auto;
+}
+.skypic{
+background-color:#99CCFF;
+margin: 0px 0px 0px 0px;
+width:385px;
+height:200px;
+}
+.u{
+background-color:#6666FF;
+width:160px;
+height:600px;
+margin: -200px 0px 0px 400px;
+}
+.slide{
+background-color:#99CCFF;
+margin: -600px 0px 0px 575px;
+width:385px;
+height:200px;
+}
+.about{
+background-color:#339933;
+width:385px;
+height:200px;
+margin:15px 0px;
+}
+.inone{
+background-color: #F3F;
+width: 385px;
+height: 285px;
+margin: -215px 575px;
+}
+.video{
+background-color: gray;
+margin:145px 0px;
+height:170px;
+width:385px;
+}
+.vspase{
+background-color:black;
+width:70px;
+height:100%;
+margin-right:auto;
+margin-left:auto;
+float:right;
+}
+.espase{
+background-color:black;
+width:70px;
+height:100%;
+margin-right:auto;
+margin-left:auto;
+float:left;
+}
+.fspase{
+background-color:black;
+width:70px;
+height:100%;
+margin-right:auto;
+margin-left:auto;
+float:center;
+}
+.audio{
+background-color: #808080;
+width: 385px;
+height: 85px;
+margin: -230px 0px;
+float: right;
+}
+.footer{
+background-color:yellow;
+width:960px;
+height:100px;
+margin:auto;
+}
